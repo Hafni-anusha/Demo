@@ -1,4 +1,5 @@
 for i in range(0,5): 
+    print("i" * i)
     print(" * "*i)
 i=5
 while i: 
