@@ -3,6 +3,7 @@ for i in range(0,5):
     print(" * "*i)
 i=5
 while i: 
+    print("0"*i)
     print(" * "*i)
     i=i-1
 # k=10
@@ -13,3 +14,4 @@ while i:
 #     for j in range (0,i+1):
 #         print(" * "*i)
 #     # print(" ")
+#sjaflkdj  klasdjfl;kads dkjfalskdfa kdjfa lkjD a
